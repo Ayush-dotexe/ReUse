@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SemesterMiniProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/earth.png</name>
+			<type>1</type>
+			<location>D:/Tria website/TinDog-Bootstrap - Copy/images/—Pngtree—small tree on blue earth_4509121.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/facebook.png</name>
+			<type>1</type>
+			<location>C:/Users/Ayush/Downloads/facebook.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/instagram.png</name>
+			<type>1</type>
+			<location>C:/Users/Ayush/Downloads/instagram.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/twitter.png</name>
+			<type>1</type>
+			<location>C:/Users/Ayush/Downloads/twitter.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
